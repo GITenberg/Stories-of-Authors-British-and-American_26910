@@ -1,0 +1,28 @@
+_repo: Stories-of-Authors-British-and-American_26910
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chubb, Edwin Watts
+    birthdate: 1865
+    deathdate: 1959
+    gutenberg_agent_id: '32324'
+    url: http://www.gutenberg.org/2009/agents/32324
+description: ''
+gutenberg_issued: '2008-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26910'
+  lccn: '10007194'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Authors, English -- Biography'
+- !lcsh 'Authors, American -- Biography'
+title: Stories of Authors, British and American
+url: http://www.gutenberg.org/ebooks/26910
